@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Nick, and I'm a senior graduating from UCLA with degrees in computer engineering and philosophy! I swear I have more code than my profile would suggest––I can't make all the code public to comply with academic honesty policies. Let me know if you're interested in seeing more, and I'll add you to the repos!
+
 <!--
 **nnhien/nnhien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
