@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nick, and I'm a UCLA graduate with degrees in computer engineering and philosophy! Check out my website at [nick.nhien.cc](nick.nhien.cc)
+My name is Nick, and I'm a UCLA graduate with degrees in computer engineering and philosophy! Check out my website at [nick.nhien.cc](https://nick.nhien.cc)
 
 <!--
 **nnhien/nnhien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
